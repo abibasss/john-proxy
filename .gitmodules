@@ -1,0 +1,9 @@
+[submodule "rating-review"]
+	path = rating-review
+	url = https://github.com/abibasss/rating-review
+[submodule "product-details"]
+	path = product-details
+	url = https://github.com/abibasss/product-details
+[submodule "product-view"]
+	path = product-view
+	url = https://github.com/abibasss/product-view
